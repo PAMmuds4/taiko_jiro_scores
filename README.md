@@ -1,4 +1,4 @@
-# taiko_jiro_scores
+# taikojiro_Pdox-scores
 
 ## English
 This repository is saved my scores of taiko jiro.<br>
